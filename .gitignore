@@ -1,0 +1,8 @@
+.next/
+node_modules/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+/Profile.pdf
+.DS_Store
